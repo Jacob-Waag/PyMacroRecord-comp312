@@ -4,7 +4,7 @@
 
 ## Features Implemented
 - **Enhanced Status Bar**: Extended to display repeat count and elapsed time during macro playback
-- **Python Script Export/Import**: Export macros as executable Python scripts for cross-machine compatibility and code transparency
+- **Python Script Export**: Export macros as executable Python scripts for cross-machine compatibility and code transparency
 - **UI Improvements**: Added dark mode option and customizable visual themes
 - **Hindi Translation**: Added `hi.json` for Hindi language support (हिंदी भाषा समर्थन)
 
