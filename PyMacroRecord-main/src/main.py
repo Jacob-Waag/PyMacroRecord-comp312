@@ -15,7 +15,7 @@ If you see 'AXIsProcessTrusted' errors, follow these steps:
 1. Run: which python3 (copy path)
 2. Open: 
    System Settings -> Privacy & Security -> Accessibility
-3. Click the + button or press Command + Shift + G and paste path.
+3. Click the + button, then press Command + Shift + G and paste path.
 4. Add Terminal too.
 5. Ensure both are toggled ON, restart Terminal.
 """
